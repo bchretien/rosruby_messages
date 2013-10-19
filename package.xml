@@ -69,6 +69,9 @@
   <build_depend>yocs_msgs</build_depend>
   <build_depend>zeroconf_msgs</build_depend>
 
+  <!-- required -->
+  <build_depend>rosunit</build_depend>
+
   <run_depend>rosruby</run_depend>
   <run_depend>message_runtime</run_depend>
 
