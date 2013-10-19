@@ -54,7 +54,7 @@ sr_ronex_msgs
 std_msgs
 std_srvs
 stereo_msgs
-tf2_geometry_msgs
+#tf2_geometry_msgs
 tf2_msgs
 trajectory_msgs
 turtlebot_msgs
